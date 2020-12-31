@@ -40,7 +40,7 @@ function TodoForm(props) {
              ref={inputRef}
              />
             
-             <button className="todo-button">Add todo</button>
+             <button className="todo-button">add todo</button>
         </form>
     )
 }
